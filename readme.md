@@ -38,9 +38,6 @@ If you want to run the program and change it for yourself then
 <img src="Images_for_Github/User_search.png" width=640 height=360>
 </div>
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Contact
 If you want to contact me you can reach me at [my email](mailto:mailtosidharth.me@gmail.com) or [my website](https://www.sidharthplportfolio.netlify.app).
 
