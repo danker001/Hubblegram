@@ -1,19 +1,12 @@
-# Flask Social Media App
-
-[![Repo Size](https://img.shields.io/github/repo-size/ItzSimplyJoe/Social-Media-App)]()
-[![Code Size](https://img.shields.io/github/languages/code-size/ItzSimplyJoe/Social-Media-App)]()
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ItzSimplyJoe/Social-Media-App)]()
-[![GitHub Issues](https://img.shields.io/github/issues/ItzSimplyJoe/Social-Media-App)]()
-
+# Hubblegram: Python Social Media
 
 ## Information
 A simple social media app called Hubblegram made with Flask, HTML, CSS and JS.
 
 ## Installation
 If you want to run the program and change it for yourself then
-- `git clone https://github.com/ItzSimplyJoe/Social-Media-App.git`
+- `git clone https://github.com/Cyber-Zypher/Hubblegram.git`
 - `cd social_network`
-- `pip install -r requirements.txt`
 - `python app.py`
 <div align="center">
 
@@ -39,19 +32,17 @@ If you want to run the program and change it for yourself then
 <p>Send messages to other users on the Messages Page</p>
 <img src="Images_for_Github/Conversations.png" width=640 height=360>
 <img src="Images_for_Github/conversation.png" width=640 height=360>
-<img src="Images_for_Github/new_conversation.png" width=640 height=360>
 
 ### Search For other Users Page
 <p>Search for other users on the Search Page</p>
 <img src="Images_for_Github/User_search.png" width=640 height=360>
-<img src="Images_for_Github/profile.png" width=640 height=360>
 </div>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact
-If you want to contact me you can reach me at [my email](mailto:joebostock30@gmail.com) or [my website](https://www.itzsimplyjoe.me).
+If you want to contact me you can reach me at [my email](mailto:mailtosidharth.me@gmail.com) or [my website](https://www.sidharthplportfolio.netlify.app).
 
 ## Contributing
 If you want to contribute to this project you can by making a Pull Request.
