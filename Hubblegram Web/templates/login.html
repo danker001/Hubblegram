@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <h1 class="title">Login</h1>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <form class = "loginpage" action="{{ url_for('login') }}" method="post">
+        <label for="username"><i class="fa-solid fa-at form-button"></i> Username:</label>
+        <input class = "login-input" type="text" id="username" name="username" placeholder="username...">
+        <label for="password"><i class="fa-solid fa-lock form-button"></i> Password:</label>
+        <div class="password-input">
+            <input class="login-input" type="password" id="password" name="password" placeholder="password..." required>
+            <span class="toggle-password">
+                <i class="far fa-eye" id="togglePassword"></i>
+            </span>
+        </div>
+        <input class = "login-button" type="submit" value="Login">
+    </form>
+
+    <script src="/static/js/app.js"></script>
+{% endblock %}
